@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
     background-color: rgb(241, 233, 233);
   }
@@ -61,7 +60,7 @@ body {
     line-height: 20px;
     font-size: 15px;
   }
-=======
+
 body {
     background-color: rgb(241, 233, 233);
   }
@@ -71,7 +70,7 @@ body {
     vertical-align: top;
     height: 426px;
     width: 325px;
-    margin: 7px 7px 7px 7px;
+    margin: 20px 7px 7px 7px;
     padding: 5px;
   }
 
@@ -98,8 +97,8 @@ body {
     width: 100%;
     text-align: left;
     line-height: 50px;
-    font-size: 30px;
-    margin: 0 5px 0 0;
+    font-size: 20px;
+    margin: 0 5px 0 20px;
   }
 
   .container .box2 {
@@ -124,4 +123,3 @@ body {
     line-height: 20px;
     font-size: 15px;
   }
->>>>>>> 56a6ece7ac7790ea5f5a63153b7ce0ba642acdd9
